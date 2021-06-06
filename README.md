@@ -1,4 +1,5 @@
-# Vue 示例项目 · 简易留言板
+# Vue 示例项目
+# · 简易留言板
 
 > ### Vue2 脚手架已出！戳[这里](https://github.com/kenberkeley/vue2-scaffold)!
 
